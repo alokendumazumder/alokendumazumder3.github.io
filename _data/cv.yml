@@ -2,25 +2,25 @@
   type: map
   contents:
     - name: Full Name
-      value: Siddarth Asokan
+      value: Alokendu Mazumder
     - name: Date of Birth
-      value: 3rd May 1995
+      value: 27th August 1997
     - name: Languages
-      value: English, Kannada, Hindi, Tamil, Sanksrit
+      value: English, Hindi, Bengali, Gujarati
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. (Thesis submitted, May 10, 2023)
+    - title: Ph.D.
       institution: Indian Institue of Science (IISc), Bangalore
-      year: 2017 - (2023)
+      year: 2021 - Present
       description:
-        - Interdesciplinary, Ph.D. in Engineering
-    - title: Bachelor of Engineering
-      institution: M. S. Ramaiah Institute of Technology (MSRIT)
-      year: 2013 - 2017
+        - Ph.D. in Robotics
+    - title: Master of Technology (M.Tech)
+      institution: Indian Institute of Technology Jammu
+      year: 2019 - 2021
       description:
-        - Electronics and Communication Engineering
+        - Thesis Title: Anomaly Detection Over Dynamic Graphs.
 
 # - title: Experience
 #   type: time_table
