@@ -19,8 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a Research Scholar at the Indian Institute of Science (IISc) Bangalore, working under the guidance of [Dr. Punit Rathore](https://www.punitrathore.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my M.Tech in Computer Science & Engineering from the Indian Institute of Technology Jammu (IIT Jammu). Nowadays, I am focusing on different ways to use latent spaces learned by foundation models in low-rank regime and their effectoveness in several downstream tasks like image generation, classification and clustering. In particular, a basic autoencoder is trained to acquire a low-dimensional latent space by minimizing the conventional reconstruction loss. However, it overlooks the fact that images inherently exist within a low-dimensional subspace within the learned subspace. I am curious if there is a method to discover the optimal or actual low-dimensional subspace through low-rank approximation techniques.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In a previous chapter of my academic journey, I focused on addressing the challenge of anomaly detection in time-series data. I had the privilege of being guided by Dr. Satyadev Ahlawat at IIT Jammu while pursuing my M.Tech degree. My M.Tech thesis was conducted in collaboration with the Ericsson AI Accelerator, where I had the opportunity to work on the fascinating problem of detecting anomalies in dynamic graphs.
+
+If you are interested in discussing about theoretical interpretation of deep learning models in general, please ping me I am always excited to have these sorts of discussion.
+
+Favourite Quote - 'क्यों डरें ज़िन्दगी में क्या होगा कुछ ना होगा तो तज़रूबा होगा' ~ जावेद अख़्तर
+(Translation: "Why fear what will happen in life? Whether something happens or not, there will be an experience.")
