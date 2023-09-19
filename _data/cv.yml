@@ -4,7 +4,7 @@
     - name: Full Name
       value: Alokendu Mazumder
     - name: Date of Birth
-      value: 27th August 1997
+      value: 27-08-1997
     - name: Languages
       value: English, Hindi, Bengali, Gujarati
 
@@ -65,47 +65,28 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2017
+    - year: 2023
       items: 
-        - Runners Up - Ideathon (IISc - MSRIT Symposium on Smart Cities)
-        - Runners Up (best project - MSRIT, Class of 2017)
-        - Gold Medal (Highest Cumulative GPA - MSRIT, Class of 2017)
+        - Recipient of the MIT International Science & Technology Initiative (MIT-MISTI.) grant along with my research team.
     - year: 2018
       items: 
-        - Microsoft Research (MSR) Ph.D. Fellowship
-    - year: 2019
-      items: 
-        - Winner - Qualcomm Innovation Felowship
-    - year: 2020
-      items: 
-        - Finalist - Qualcomm Innovation Felowship
-        - Winner - Robert Bosch Center for Cyber-Physical Systems (RBCCPS) Ph.D. Fellowship
-    - year: 2021
-      items: 
-        - Winner - Qualcomm Innovation Felowship
-        - Winner - Robert Bosch Center for Cyber-Physical Systems (RBCCPS) Ph.D. Fellowship
-    - year: 2022
-      items: 
-        - Winner - Qualcomm Innovation Felowship
-
+        - Recipient of Prime Ministers Research Fellowship. Awarded by Ministry of Education, Government of India.
+   
 - title: Relavant Coursework
   type: nested_list
   contents:
     - title: Core Mathematics
       items: 
-        - (E1-222, Aug 2017) Stochastic Models and Applications
-        - (E1-251, Aug 2017) Linear and Non-linear Optimization
-        - (E9-396, Aug 2018) Topics in Stochastic Approximation Algorithms
+        - (E1-222, Aug 2021) Stochastic Models and Applications
+        - (E0-230, Aug 2017) Computational Methods in Optimisation
+        
     - title: Image Processing
       items: 
-        - (E9-241, Aug 2017) Digital Image Processing
-        - (E9-246, Jan 2018) Advanced Image Processing
+        - (E9-246, Jan 2022) Advanced Image Processing
     - title: Machine Learning 
       items:
         - (E1-213, Jan 2018) Pattern Recognition and Neural Networks
-        - (E1-277, Jan 2018) Reinforcement Learning
-        - (E9-205, Aug 2018) Machine Learning for Signal Processing
-        - (CP-313, Aug 2018) Autonomous Navigation
+        - (E9-309, Jan 2018) Advance Deep Learning
 
 - title: Other Interests
   type: list
